@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33900463/README.md)
-
+[README.md](https://github.com/user-attachments/files/33900722/README.md)
 <h1 align="center">Ahmad Sapy</h1>
 
 <p align="center">
@@ -24,7 +23,7 @@
 
 <br>
 
-<img align="right" width="132" src="assets/brain.svg" alt="">
+<img align="right" width="96" src="assets/me.svg" alt="">
 
 I build things in order to understand them, and I verify instead of assuming.
 
@@ -36,7 +35,7 @@ Founder of **Arzin Systems LLC**, bringing routine vulnerability scanning to Bay
 
 ---
 
-## What I'm building
+## <img src="assets/brain.svg" width="26" align="top"> &nbsp;What I'm building
 
 ### <img src="assets/ico-terminal.svg" width="24" align="top"> &nbsp;[arzin-lab](https://github.com/AHMAD-ARZIN-CS/arzin-lab)
 
