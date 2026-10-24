@@ -37,7 +37,7 @@ Founder of **Arzin Systems LLC**, bringing routine vulnerability scanning to Bay
 
 ## <img src="assets/brain.svg" width="26" align="top"> &nbsp;What I'm building
 
-### <img src="assets/ico-terminal.svg" width="24" align="top"> &nbsp;[arzin-lab](https://github.com/AHMAD-ARZIN-CS/arzin-lab)
+### <img src="assets/ico-terminal.svg" width="24" align="top"> &nbsp;[Chalkbyte](https://github.com/AHMAD-ARZIN-CS/arzin-lab)
 
 **A workspace that runs your code and shows you what it's doing.**
 
